@@ -1,0 +1,1 @@
+- [youtrack](../tools/youtrack.md) by JetBrains. self-hostable with mobile app

@@ -6,3 +6,6 @@ A collection of notes for (software) tools to enhance productivity. Slight slant
 - [web-research](themes/web-research.md)
 - [workflow-automation](themes/workflow-automation.md)
 - [query-over-documents](themes/query-over-documents.md)
+- [ai-scientists](themes/ai-scientists.md)
+- [learn-faster](themes/learn-faster.md)
+- [project-management](themes/project-management.md)
