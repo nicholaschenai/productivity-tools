@@ -1,11 +1,11 @@
 
 ## Research pipeline automation
-See [ai-scientists](ai-scientists.md), automating a huge fraction of the research process
+automating a huge fraction of the research process
+- [ai-scientists](ai-scientists.md)
 
-
----
 ## Reproducing experiments
 - [Paper2Code: Automating Code Generation from Scientific Papers in Machine Learning](https://arxiv.org/abs/2504.17192)
+- AIDE https://arxiv.org/abs/2502.13138 https://github.com/WecoAI/aideml
 ### Evaluation
 - [PaperBench: Evaluating AI's Ability to Replicate AI Research](https://arxiv.org/abs/2504.01848)
 
