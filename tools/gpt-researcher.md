@@ -4,8 +4,11 @@
 ## features
 ref https://docs.gptr.dev/docs/gpt-researcher/context/tailored-research
 - has option for [source urls](https://github.com/assafelovic/gpt-researcher/blob/master/gpt_researcher/master/agent.py) so it only goes to specific site u specify
-- customization for prompts n research report types
-
+- customization for prompts 
+- customization for research report types
+	- Resource 
+	- outline 
+	- custom report
 - has multiple [scraper classes](https://github.com/assafelovic/gpt-researcher/blob/master/gpt_researcher/scraper/scraper.py) for the scenarios below, decided via if else blocks (see [this](https://github.com/assafelovic/gpt-researcher/blob/master/gpt_researcher/scraper/scraper.py))
 	- pdf, 
 	- arxiv (if url is arxiv.org then it uses this API to get metadata and main article)
