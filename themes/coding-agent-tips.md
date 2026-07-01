@@ -66,8 +66,10 @@ Per slice (reference the architecture design doc),
 	- Codebase files, documentation to read
 	- New files to create
 	- Step by step tasks and how to validate/test each step (see testing/validation strategy doc)
-		- IMPORTANT: discuss with user the testing strategy. For efficiency, verification does not need to be tests, can be **easily checkable** artifacts like screenshots, logs, traces, output samples
-		- Semi-vibe: Get AI to label tasks as 'core' (other code depends on this) and 'leaf' (no dependencies on this), and humans can be efficient by only checking 'core' code
+		- IMPORTANT: discuss with user the testing strategy. 
+		- Efficiency tips, inspired by [vibe-coding-in-production](../talks/vibe-coding-in-production.md)
+			- verification does not need to be tests, can be **easily checkable** artifacts like screenshots, logs, traces, output samples
+			- Get AI to label tasks as 'core' (other code depends on this) and 'leaf' (no dependencies on this), and humans only read 'core' code
 - Tip: require it to launch a subagent (which has a fresh context) to check the plan for completeness (main agent can test subagent with questions)
 #### Execution
 Once the plan is done, give instruction to a fresh agent to execute the plan, run tests to check its work and iterate till done
