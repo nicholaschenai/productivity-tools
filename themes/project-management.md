@@ -1,1 +1,2 @@
-- [youtrack](../tools/youtrack.md) by JetBrains. self-hostable with mobile app
+- [youtrack](../tools/youtrack.md) by JetBrains. self-hostable with mobile app but no offline mode
+- [oss-proj-mgmt](../../../obsidian-main/side-projs/proj-mgmt/oss-proj-mgmt.md)

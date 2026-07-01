@@ -19,7 +19,7 @@ Equations from data [symbolic-regression](symbolic-regression.md)
 
 ---
 ## Coding productivity
-- [coding-productivity](coding-productivity.md)
+- [coding-productivity-tools](coding-productivity-tools.md)
 ---
 ## Query over documents
 research papers, ppt etc

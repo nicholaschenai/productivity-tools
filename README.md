@@ -9,3 +9,4 @@ A collection of notes for (software) tools to enhance productivity. Slight slant
 - [ai-scientists](themes/ai-scientists.md)
 - [learn-faster](themes/learn-faster.md)
 - [project-management](themes/project-management.md)
+- Idea: [local-personal-data-productivity-suite-idea](themes/local-personal-data-productivity-suite-idea.md)
